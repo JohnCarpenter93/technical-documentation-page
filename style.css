@@ -1,0 +1,11 @@
+header {
+  font-size: 24;
+  font-weight: bold;
+}
+
+.navbar {
+  display: flex;
+  flex-direction: column;
+
+  justify-content: ;
+}
